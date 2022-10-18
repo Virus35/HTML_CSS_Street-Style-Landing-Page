@@ -18,15 +18,13 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
 
 ### 📌 What I Learn
 
-``` CSS
-👉 How to Structure **HTML** and **CSS**
-👉 Flexbox & Properties
-👉 Positioning in CSS
-👉 CSS Selectors
-👉 Various properties like color, background-color, width, height and much more.
-👉 How to apply Custom Fonts
-👉 Margin and Padding
-```
+> 👉 How to Structure **HTML** and **CSS** <br>
+  👉 Flexbox & Properties <br>
+  👉 Positioning in CSS <br>
+  👉 CSS Selectors <br>
+  👉 Various properties like color, background-color, width, height and much more. <br>
+  👉 How to apply Custom Fonts <br>
+  👉 Margin and Padding <br>
 
 ### Time Taken to Complete this Project:- 3 Hours
 
