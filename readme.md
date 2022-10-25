@@ -1,8 +1,8 @@
-## 🔗 Project 1 Link
+## 🔗 Street Style Landing Page
 [https://vishal-product-home-page-html-css.netlify.app/](https://vishal-product-home-page-html-css.netlify.app/)
 
 
-## ⭐Project-1: Street Style Landing Page ⭐
+## ⭐ Street Style Landing Page ⭐
 
 This is the assignment given in the **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron** *&* This Assignment was done using **HTML5 & CSS3.**
 
