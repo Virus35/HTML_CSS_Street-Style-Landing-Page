@@ -1,5 +1,5 @@
 ## 🔗 Street Style Landing Page
-[https://vishal-product-home-page-html-css.netlify.app/](https://vishal-product-home-page-html-css.netlify.app/)
+[https://vishal-street-style-landing-page.netlify.app/](https://vishal-street-style-landing-page.netlify.app/)
 
 
 ## ⭐ Street Style Landing Page ⭐
